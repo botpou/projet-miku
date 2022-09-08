@@ -14,8 +14,8 @@ global.BotName = "ANDY BOT "
 global.packname = "MR LIT BOT"
 global.author = "By: Andy"
 global.OwnerName = "Andy mr lit"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.BotSourceCode = "https://github.com/u-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/CbOE9vAlpoPDcLZGre4wVF"
 global.sessionName = "session"
 
 // Prefix //
