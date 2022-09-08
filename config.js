@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['50941411147']
+global.OwnerNumber = ['50947477839']
+global.ownertag = ['50941411147']
+global.BotName = "ANDY BOT "
+global.packname = "MR LIT BOT"
+global.author = "By: Andy"
+global.OwnerName = "Andy mr lit"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "Port au Prince, HAÏTI"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
@@ -59,18 +59,18 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
+    useradmin: 'dezole bro eh sel admin yo ki ka use komnd sa  *Baka*!',
+    botadmin: 'Sorry, gee fok ou admin nn group la p.',
+    botowner: 'selman kreyatèm nan ki k use komnd sa , Baka!',
+    grouponly: 'komnd sa c pou group li la  *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
-    error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
+    nolink: 'banm link lan my gee, Baka!',
+    error: 'erè......!',
+    banned: 'andy mr lit baniw ou pp k use komnd sa !',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'ou pervers man komnd sa pa aktive! This is not a NSFW enabled group!'
     
 }
 
