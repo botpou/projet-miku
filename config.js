@@ -14,8 +14,8 @@ global.BotName = "ANDY BOT "
 global.packname = "MR LIT BOT"
 global.author = "By: Andy"
 global.OwnerName = "Andy mr lit"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.BotSourceCode = "https://github.com/FaD"
+global.SupportGroupLink = "https://chat.whatsapp.com/CbOE9vAlpoPDcLZGre4wVF"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,7 +27,7 @@ global.location = "Port au Prince, HAÏTI"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/Fa"
 global.lolhuman = "KaysaS"
 
 
